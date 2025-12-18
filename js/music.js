@@ -4,42 +4,7 @@ const ap = new APlayer({
     fixed: true,
 	autoplay: true, //自动播放
     audio: [
-	{
-        name: 'Henceforth',
-        artist: '高松灯',
-        url: 'https://m801.music.126.net/20250527214712/fe1c4db5699b29988937bd975e295a82/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34734894493/5f10/4361/a7a7/345da22efcabd588892dfa830a2469c1.mp3',
-        cover: 'https://p2.music.126.net/3DmcOS6eA6yXFS3HxLprJA==/109951169441137472.jpg',
-    }, 
-    {
-        name: 'DAYBREAK FRONTLINE',
-        artist: 'Orangestar / IA',
-        cover: 'https://p1.music.126.net/VaBRPQTtkEjGMUta2-f5Ow==/109951170961702497.jpg',
-        url: 'https://m801.music.126.net/20250527220147/365b6353292a3c5ca9c2cd02793486bb/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59939860263/404d/df3d/7555/f7219729205317b3a4f574bfbca258c9.mp3',
-    },
-    {
-        name: '明日夜空的哨戒班',
-        artist: 'Orangestar / IA',
-        url: 'https://m801.music.126.net/20250527222029/a92d2d6cf584f663a968e45a5338b480/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/24497306048/b613/fc8c/91a8/e58eb35383dad379b8809870724bdb46.mp3',
-        cover: 'https://p1.music.126.net/FGYCo9ZtZd-vcOBZXeu-Cg==/109951165868160762.jpg',
-    },
-    {
-        name: 'Surges',
-        artist: 'Orangestar / IA',
-        url: 'https://m10.music.126.net/20250527223248/20a8201d8147640ad18294a434d67cf7/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14055273386/eb86/14a4/4db1/4689e8b589903408fc4cbc5a651241a1.mp3',
-        cover: 'https://p1.music.126.net/brRQMx-FhXwW1APZtmNeuw==/109951166317376612.jpg',
-    },
-    {
-        name: '夜行京广',
-        artist: '基岩君QAQ / 洛天依',
-        url: 'https://m8.music.126.net/20250527222732/86c37e62876a8dcf4b29b4fc051280f2/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/57055133451/a9d5/6b27/c6e9/8f3371a360f255a3693695639b8c91f2.mp3',
-        cover: 'https://p2.music.126.net/89FVzCtUjfByV_blXsqlYA==/109951170259055812.jpg',
-    },
-    {
-        name: '夜行少女',
-        artist: '小野道ono / 花近',
-        url: 'https://m10.music.126.net/20250527223628/71724b37d5c174d18e5834b1b7dd3366/ymusic/9a76/504e/74c6/37cd486da20dfc156f18235ca6889529.mp3',
-        cover: 'https://p1.music.126.net/bT73IZq7YTUAVEQLuvzW0Q==/109951162867270842.jpg',
-    },
+	{},
 	]
 });
 //具体参数学习请看APlayer官方文档（已在学习链接中）
