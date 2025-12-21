@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/undefined.html"/>
+    <url>/undefined.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/hello-world.html"/>
     <url>/hello-world.html</url>
@@ -21,28 +34,13 @@
     <link href="/2024.html"/>
     <url>/2024.html</url>
     
-    <content type="html"><![CDATA[<p>别回头，向前走，前路有光。</p><span id="more"></span><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=966819895&bvid=BV1Hp4y1m7Vp&cid=1419875123&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><p>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年<del>祭</del>纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。</p><h2 id="本站：稳中向好"><a href="#本站：稳中向好" class="headerlink" title="本站：稳中向好"></a>本站：稳中向好</h2><p>首先是本站，从Typecho升级到了Hexo静态页面的打法，并且购入 chatongxue.top 的顶级域名，避免了可能忘缴服务器费导致全库消失以及二级域名跑路访问不可达的bug。<br>其次是对原有的Typecho博客改为 typecho.chatongxue.top 作为赛博避难所，毕竟我们永远不知道CFPages是不是有寄了的那一天。<br>总之就是：比起一路走来的WordPress+不知名虚拟主机厂商时代，我们的服务比以往更加稳定了。</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>退学当UP主？我劝你善良。</title>
-    <link href="/out-of-school-to-uploaders.html"/>
-    <url>/out-of-school-to-uploaders.html</url>
-    
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>别回头，向前走，前路有光。</p><span id="more"></span><p>无论你是在被今年春晚沟槽的语言类节目整的大脑升级，正在打新年第一∠，还是在看拜年<del>祭</del>纪，也还是欢迎你点开这里，愿意看一个人过去一年的意难平。</p><h2 id="本站：稳中向好"><a href="#本站：稳中向好" class="headerlink" title="本站：稳中向好"></a>本站：稳中向好</h2><p>首先是本站，从Typecho升级到了Hexo静态页面的打法，并且购入 chatongxue.top 的顶级域名，避免了可能忘缴服务器费导致全库消失以及二级域名跑路访问不可达的bug。<br>其次是对原有的Typecho博客改为 typecho.chatongxue.top 作为赛博避难所，毕竟我们永远不知道CFPages是不是有寄了的那一天。<br>总之就是：比起一路走来的WordPress+不知名虚拟主机厂商时代，我们的服务比以往更加稳定了。</p><p>2025年12月21日更新<br>2025年的烂尾在这儿了，等2026年的吧</p><p>2025年12月21日 于 白佛</p>]]></content>
     
     
     
     <tags>
       
-      <tag>杂谈</tag>
-      
-      <tag>视频</tag>
+      <tag>年终总结</tag>
       
     </tags>
     
