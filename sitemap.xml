@@ -162,13 +162,6 @@
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.chatongxue.top/tags/hexo/</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,17 +175,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.chatongxue.top/tags/Minecraft/</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://blog.chatongxue.top/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.chatongxue.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://blog.chatongxue.top/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
